@@ -1,4 +1,3 @@
-# 13-terraform-azure-route-table
 
 ## Overview
 This Terraform project creates an Azure Route Table and associates it with a subnet using simple terraform code.
